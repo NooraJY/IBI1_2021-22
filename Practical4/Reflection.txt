@@ -1,0 +1,10 @@
+This system is too old and too difficult!
+I have failed to use git command in my computer maybe because I don't install the git programme in my computer.
+Thus I tried to do my practical in the ZJE server.
+Things went well at the beginning until the git push command came.
+I have tried almost twenty times to push. 
+Sadly, it all failed.
+Sometimes, it returned "times out". Sometimes, it returned "fail to access".
+Finally, I was lucky enough to push.
+It's like a gambling process! I typed the same code in each of the 20 attempts. Push is a matter of luck.
+After finishing this practical, I have completely lost patience and faith in Unix.
