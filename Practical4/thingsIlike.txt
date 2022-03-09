@@ -1,5 +1,19 @@
-I like music
-I like pork pies
-I like crisps
-I like tea very much
-I like Radio 4
+I like sun.
+I like snow.
+I like blue.
+I like anime.
+I like singing songs.
+I like milktea.
+<<<<<<< HEAD
+I like the world.
+I like smiling.
+I like reading novels very much.
+I like z.
+=======
+I don't like the world.
+I like a.
+I like b.
+I like c.
+I like d.
+I like e.
+>>>>>>> Noora
