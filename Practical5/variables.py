@@ -1,16 +1,17 @@
 a = 19245301
 b = 4218520
 c = 271
-d = b-c
+#set value of variables a,b,c
+d = b-c #use subtraction to calculate the difference between b and c
 print('The difference between the numbers of cases in 2020 and 2021 is',d)
-e = a-b
+e = a-b #use subtraction to calculate the difference between a and b
 print('The difference between the numbers of cases in 2021 and 2022 is',e)
 
 if d>e:
 	print('d is greater than e')
 else:
 	print('e is greater than d')
-#e is greater.Use 'if...else' to compare them.
+#e is greater.Use 'if...else' to print different results.
 #The rate of new cases was greater in 2021.
 
 X1 = True
