@@ -14,8 +14,11 @@ y = np.array(chd)
 #set the value of y
 ax = plt.axes()
 ax.set_facecolor("lightskyblue")
+#set the color of the background of the plot
 plt.scatter(x,y,marker='X',color='mediumorchid')
+#paint the plot and set the shape and color of the dots
 plt.title('parental age vs offspring health')
+#set the title of the plot
 plt.show()
 #creat and show the scatter plot
 
