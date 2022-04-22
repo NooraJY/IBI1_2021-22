@@ -13,6 +13,10 @@ def find_percentage(i):
 
 DNA = input("The DNA sequence is:")
 nucleotide = input("Please imput a nucleotide from A/T/C/G nucleotides:")  
-print("The percentage of this nucleotide in the DNA sequence is:",find_percentage(nucleotide))
+print("When the DNA sequence is ",DNA,",the percentage of",nucleotide," in the DNA sequence is:",find_percentage(nucleotide,DNA))
 #Apply the find_percentage function.
 
+#example
+DNA1= 'ACGTatcgtATAGcta'
+nucleotide1 = 'T'
+print("When the DNA sequence is ",DNA1,"the percentage of",nucleotide1," in the DNA sequence is:",find_percentage(nucleotide1,DNA1))
