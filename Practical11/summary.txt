@@ -1,0 +1,19 @@
+Results:
+group 1: Compare the human gene with the mouse gene:
+	alignment score: 1490
+	the percentage of identical amino acids: 96.53979238754326 %
+
+group 2: Compare the human gene with the random gene:
+	alignment score: -351
+	the percentage of identical amino acids: 2.768166089965396 %
+
+group 3: Compare the mouse gene with the random gene:
+	alignment score: -348
+	the percentage of identical amino acids: 3.114186851211076 %
+
+Interpretation:
+The alignment scores and the percentages of identical amino acids show the similarities between different genes. 
+The alignme for the group1 is much higher than the group2&3, which means that the DLX5 gene is very similar in human and mouse.
+The scores for groups 2 and 3 are negative, indicating a low genetic similarity.
+The percentage of identical amino acids is nearly 100% in the group 1, while the percentages are very low in group 2&3.
+The similarity of the DLX5 gene means that there is very little variation in the gene between the two species. Therefore, this gene may have an important function, which may cause damage to the organism if mutated.
