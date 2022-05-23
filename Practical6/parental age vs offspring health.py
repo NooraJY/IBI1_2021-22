@@ -19,6 +19,9 @@ plt.scatter(x,y,marker='X',color='mediumorchid')
 #paint the plot and set the shape and color of the dots
 plt.title('parental age vs offspring health')
 #set the title of the plot
+plt.xlabel('The paternal ages')
+plt.ylabel('the offspring health')
+#set the labels of x axis and y axis
 plt.show()
 #creat and show the scatter plot
 
