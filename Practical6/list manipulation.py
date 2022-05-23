@@ -12,6 +12,7 @@ plt.boxplot(score,patch_artist=True)
 #paint the boxplot and show the color of the box
 plt.title('list manipulation')
 #set the title of the boxplot
+plt.ylabel('the scores')
 plt.show()
 
 average_mark=sum(marks)/len(marks)
